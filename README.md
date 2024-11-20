@@ -43,7 +43,6 @@
     <li><strong>Evaluation</strong>:
         <ul>
             <li>Compared model performance using metrics such as accuracy, precision, recall, and F1-score.</li>
-            <li>Documented the feature importance ranking and provided an analysis of their impact on campaign success.</li>
         </ul>
     </li>
 </ol>
